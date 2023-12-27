@@ -14,7 +14,7 @@
 
 - 👨‍💻 Portfolio --> [https://yash-portfolio-bice.vercel.app/](https://yash-portfolio-bice.vercel.app/)
 
-- 💬 Talks about --> **ReactJs,NodeJs,ExpressJs,MongoDB,TailwindCSS,Docker**
+- 💬 Talks about --> **ReactJs,NodeJs,ExpressJs,MongoDB,TailwindCSS,Docker,FastApi,OPenAi**
 
 - 📫 How to reach me --> **pandeyyash7052@gmail.com**
 
