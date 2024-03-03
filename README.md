@@ -18,10 +18,6 @@
 
 - ⚡ Fun fact **No funs at all !!!!!!!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/-@yashpandey7052-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yashpandey7052)](https://twitter.com/yashpandey7052) [![Linkedin Badge](https://img.shields.io/badge/-yashpandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)
