@@ -1,7 +1,7 @@
 <h1 align="center">
   <span id="typewriter-text">Bonjour 👋, I'm Yash Pandey</span>
 </h1>
-<h3 class="type" align="center">A passionate Software Developer in building.</h3>
+<h3 class="type" align="center">A Software Developer and Technical Content Writer</h3>
 <hr>
 
 </br>
