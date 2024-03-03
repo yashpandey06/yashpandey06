@@ -12,9 +12,9 @@
 
 - 👨‍💻 Portfolio --> [Notion Portfolio](https://yash-portfolio-bice.vercel.app/)
 
-- 💬 Talks about --> **ReactJs,NodeJs,ExpressJs,MongoDB,TailwindCSS,Docker,FastApi,OPenAi**
+- 💬 Talks about --> **ReactJs , NodeJs , ExpressJs , MongoDB , TailwindCSS , Docker , FastApi , OPenAi**
 
-- 📫 How to reach me --> **pandeyyash7052@gmail.com**
+- 📫 How to reach me --> **yashpandey8272@gmail.com**
 
 - ⚡ Fun fact **No funs at all !!!!!!!**
 
