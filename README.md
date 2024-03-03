@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-@yashpandey7052-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yashpandey7052)](https://twitter.com/yashpandey7052) [![Linkedin Badge](https://img.shields.io/badge/-yashpandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/midhruvjaink/)
+[![Twitter Badge](https://img.shields.io/badge/-@yashpandey7052-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yashpandey7052)](https://twitter.com/yashpandey7052) [![Linkedin Badge](https://img.shields.io/badge/-yashpandey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-pandey-53aa3a21b/)](https://www.linkedin.com/in/yash-pandey-53aa3a21b/)
 [![Gmail Badge](https://img.shields.io/badge/-yashpandey8272@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashpandey8272@gmail.com)](mailto:yashpandey8272@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-@yashpandey-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@pandeyyash7052)](https://medium.com/@pandeyyash7052)
 
