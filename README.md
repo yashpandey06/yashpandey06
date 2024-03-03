@@ -8,14 +8,6 @@
 
 <img class="imagemine" align="right" alt="Coding" width="400" src="https://static-00.iconduck.com/assets.00/coding-illustration-512x350-w7mj8rpj.png"/>
 
-<p align="left"> <a href="https://twitter.com/yashpandey7052" target="blank"><img src="https://img.shields.io/twitter/follow/yashpandey7052?logo=twitter&style=for-the-badge" alt="yashpandey7052" /></a> </p>
-
-- 👨‍💻 Portfolio --> [Notion Portfolio](https://yash-portfolio-bice.vercel.app/)
-
-- 💬 Talks about --> **ReactJs , NodeJs , ExpressJs , MongoDB , TailwindCSS , Docker , FastApi , OPenAi**
-
-- 📫 How to reach me --> **yashpandey8272@gmail.com**
-
 - ⚡ Fun fact **No funs at all !!!!!!!**
 
 <h3 align="left">Connect with me:</h3>
