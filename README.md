@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashpandey7052" target="blank"><img src="https://img.shields.io/twitter/follow/yashpandey7052?logo=twitter&style=for-the-badge" alt="yashpandey7052" /></a> </p>
 
-- 👨‍💻 Portfolio --> [https://yash-portfolio-bice.vercel.app/](https://yash-portfolio-bice.vercel.app/)
+- 👨‍💻 Portfolio --> [Notion Portfolio](https://yash-portfolio-bice.vercel.app/)
 
 - 💬 Talks about --> **ReactJs,NodeJs,ExpressJs,MongoDB,TailwindCSS,Docker,FastApi,OPenAi**
 
