@@ -91,8 +91,5 @@ I enjoy learning new technologies and exploring tech.
    <td>
      <img src="https://github-readme-stats.vercel.app/api?username=yashpandey06&show_icons=true&theme=synthwave&hide_border=true" />
    </td>
-   <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpandey06&theme=merko&hide_border=true&show_icons=true" />    
-   </td>
  </tr>
 </table>
