@@ -34,7 +34,6 @@
 I enjoy learning new technologies and exploring tech.
 
 - 🔭 I’m working on building web apps using Industry level tech stack.
-- 🌱 I’m currently learning advanced JavaScript and exploring backend frameworks like Express.js.
 - 📫 Reach me @ [pandeyyash7052@gmail.com](mailto:pandeyyash7052@gmail.com)
 - ⚡ Fun fact: I love coding while sipping coffee to keep the bugs away ☕ 😸
 
